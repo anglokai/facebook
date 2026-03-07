@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(173, 214, 243);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.why{
+    color: blue;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    padding: 150px;
+}
+ 
+.left{
+    width: 30%;
+}
+.right{
+
+}
+
+.form{
+     background-color: white;
+     border-radius: 10px;
+     padding: 35px;
+}
+
+
+input{
+    padding: 15px;
+    display: block;
+    margin: 10px;
+    width: 300px;
+} 
+
+button{
+    width: 250px; 
+    padding: 15px;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+    color: white;
+    justify-content: center;
+
+}
+.login{
+    background-color: rgb(58, 58, 189); 
+
+}
+.now{
+    background-color: rgb(46, 179, 42);
+}
+a{
+    color: black;
+    text-decoration: none;
+} 
+
